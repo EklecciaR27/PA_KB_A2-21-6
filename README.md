@@ -8,7 +8,7 @@ Membuat Model CNN Penebak Tipe Botol
 
 ## Nama Anggota
 
-- Kevin Yaneld Cendhana 2109106031 (Ketua)
+- Kevin Yaneld Cendhana 2109106031 
 - Ekleccia Reydianto    2109106036
 - Tito Darmawan         2109106042
 
